@@ -8,4 +8,4 @@ It shows a Smart Light System using Python and the Raspberry Pi Pico W.
 - Potentiometer adjusts LED brightness  
 - Buzzer alerts when brightness is high  
 
-This repository includes the Python code and explanation for the project.# IoT
+This repository includes the Python code and explanation for the project.

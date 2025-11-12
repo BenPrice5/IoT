@@ -1,7 +1,7 @@
-Smart IoT Project
+IoT Rasberry Pi Pico W project.
 
-This project was created for my Year 9 Digital Design class.  
-It demonstrates a Smart Light System using Python and the Raspberry Pi Pico W.  
+This project if for my Year 9 IT class.  
+It shows a Smart Light System using Python and the Raspberry Pi Pico W.  
 
 **Features:**
 - Button toggles LED on/off  
